@@ -1,0 +1,9 @@
+setup.py
+Rapier.egg-info/PKG-INFO
+Rapier.egg-info/SOURCES.txt
+Rapier.egg-info/dependency_links.txt
+Rapier.egg-info/top_level.txt
+core/__init__.py
+core/core.py
+core/parseconfig.py
+modules/__init__.py
